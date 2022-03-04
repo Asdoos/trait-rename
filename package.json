@@ -1,0 +1,23 @@
+{
+  "name": "trait-rename",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asdoos/trait-rename.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asdoos/trait-rename/issues"
+  },
+  "homepage": "https://github.com/Asdoos/trait-rename#readme",
+  "devDependencies": {
+    "natural-compare-lite": "^1.4.0"
+  }
+}
