@@ -129,3 +129,5 @@ dist
 .idea/*
 json/
 json_gen/
+*.rar
+*.zip
